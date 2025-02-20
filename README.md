@@ -27,7 +27,7 @@ fictional_resume_app/
 │   ├── controllers/       # API route handlers
 │   ├── models/            # Mongoose schemas
 │   ├── routes/            # Express API routes
-│   ├── utills/             # Utility functions
+│   ├── utils/             # Utility functions
 │   ├── middlewares/       # Authentication & security middleware
 │── .env                   # Environment variables
 │── index.js               # Main server file
